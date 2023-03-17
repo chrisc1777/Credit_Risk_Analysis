@@ -8,21 +8,33 @@ We evaluated a loans dataset from the Lending Club's first quarter of 2019 with 
 
 Random Over Sampler
 * The random oversampling method got an accuracy score of 62.3%, a precision score of 1%, and a recall/sensitivity score of 57%.
+![nro](https://user-images.githubusercontent.com/106359564/225806153-3cfc3196-22f3-44a1-a300-8b9a9a21e63d.png)
+
 
 SMOTE sampler
 * The Synthetic Minority Oversampling Technique got an accuracy score of 62.8%, a precision score of 1%, and a recall/sensitivity score of 62%.
+![smote](https://user-images.githubusercontent.com/106359564/225806183-614039ff-d903-46d4-982e-b32b45227ca3.png)
+
 
 Cluster Centroids under-sampler
 * The undersampling method got an accuracy score of 62.8%, a precision score of 1%, and a recall/sensitivity score of 59%.
+![under](https://user-images.githubusercontent.com/106359564/225806217-ead77bf3-3538-4c6b-b48b-4b800cce1597.png)
+
 
 SMOTE-ENN sampler
 * The SMOTE combined with Edited Nearest Neighbor (ENN) technique of over and undersampling mixed method got an accuracy score of 78.9%, a precision score of 3%, and a recall/sensitivity score of 70%.
+![smoteenn](https://user-images.githubusercontent.com/106359564/225806235-b1d8759a-9204-4e3e-b032-cf4c7610ec6a.png)
+
 
 Balanced Forest Classifier model
 * The random forest algorithm got an accuracy score of 62.8%, a precision score of 1%, and a recall/sensitivity score of 59%.
+![forest](https://user-images.githubusercontent.com/106359564/225806257-645cc06d-2264-4514-9326-031af02fa09a.png)
+
 
 Easy Ensemble Classifier model
 * The adaptive boosting model got an accuracy score of 93.2%, a precision score of 9%, and a recall/sensitivity score of 92%.
+![adaboost](https://user-images.githubusercontent.com/106359564/225806272-b21a6449-a6e0-4c4b-8f08-54514afa0085.png)
+
 
 ## Summary
 
