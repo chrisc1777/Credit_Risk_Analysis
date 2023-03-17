@@ -10,19 +10,19 @@ Random Over Sampler
 * The random oversampling method got an accuracy score of 62.3%, a precision score of 1%, and a recall/sensitivity score of 57%.
 
 SMOTE sampler
-The Synthetic Minority Oversampling Technique got an accuracy score of 62.8%, a precision score of 1%, and a recall/sensitivity score of 62%.
+* The Synthetic Minority Oversampling Technique got an accuracy score of 62.8%, a precision score of 1%, and a recall/sensitivity score of 62%.
 
 Cluster Centroids under-sampler
-The undersampling method got an accuracy score of 62.8%, a precision score of 1%, and a recall/sensitivity score of 59%.
+* The undersampling method got an accuracy score of 62.8%, a precision score of 1%, and a recall/sensitivity score of 59%.
 
 SMOTE-ENN sampler
-The SMOTE combined with Edited Nearest Neighbor (ENN) technique of over and undersampling mixed method got an accuracy score of 78.9%, a precision score of 3%, and a recall/sensitivity score of 70%.
+* The SMOTE combined with Edited Nearest Neighbor (ENN) technique of over and undersampling mixed method got an accuracy score of 78.9%, a precision score of 3%, and a recall/sensitivity score of 70%.
 
 Balanced Forest Classifier model
-The random forest algorithm got an accuracy score of 62.8%, a precision score of 1%, and a recall/sensitivity score of 59%.
+* The random forest algorithm got an accuracy score of 62.8%, a precision score of 1%, and a recall/sensitivity score of 59%.
 
 Easy Ensemble Classifier model
-The adaptive boosting model got an accuracy score of 93.2%, a precision score of 9%, and a recall/sensitivity score of 92%.
+* The adaptive boosting model got an accuracy score of 93.2%, a precision score of 9%, and a recall/sensitivity score of 92%.
 
 ## Summary
 
